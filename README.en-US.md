@@ -2,7 +2,7 @@
   <img src="/logo.jpg" height="300" />
 </p>
 <p align="center">
-  开源运维资产管理工具
+  Open-CMDB
 </p>
 <p align="center">
   <a href="https://github.com/kkzzhizhou/open-cmdb/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/kkzzhizhou/open-cmdb?style=flat-square"/></a>
@@ -11,29 +11,27 @@
   <a href="https://github.com/kkzzhizhou"><img alt="GitHub user" src="https://img.shields.io/badge/author-kkzzhizhou-brightgreen?style=flat-square"/></a>
 </p>
 
-## 国际化
+## International
 
 [简体中文](README.md) | [English](README.en-US.md)
 
 
-## 介绍
+## Introduction
 
-云原生、容器化CI/CD管理平台
+Cloud Nactive、Containerize CI/CD Manage Platform
 
-技术架构：
+Technical Stack：
 - React
 - Go
 
-## 新手入门
+## Quick-Start
 
-### 安装
+### Docker
 
-#### Docker
+### Docker Compose
 
-#### Docker Compose
+### K8s
 
-#### K8s
-
-## 路线图
+## Roadmap
 
 - 支持容器CI/CD部署流程
